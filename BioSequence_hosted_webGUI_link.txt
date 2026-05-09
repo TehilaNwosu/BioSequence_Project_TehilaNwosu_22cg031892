@@ -1,0 +1,5 @@
+Name: Tehila Nwosu
+Matric Number: 22cg031892
+Bioinformatics Algorithm: Central Dogma Translation/Transcription
+Live URL: (fill in after deployment)
+GitHub Repository: https://github.com/TehilaNwosu/BioSequence_Project_TehilaNwosu_22cg031892
